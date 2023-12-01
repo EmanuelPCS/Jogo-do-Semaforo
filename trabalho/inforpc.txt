@@ -1,0 +1,11 @@
+ Jogador A 
+ X: 1 , Y: 1 , Cor: G , Pedra: 0 , Linha: 0, Coluna: 0
+
+ Jogador C 
+ X: 3 , Y: 3 , Cor: G , Pedra: 0 , Linha: 0, Coluna: 0
+
+ Jogador A 
+ X: 2 , Y: 2 , Cor: G , Pedra: 0 , Linha: 0, Coluna: 0
+
+ Ganhou o jogador A por diagonal.
+ Número total de Jogadas realizadas: 3.

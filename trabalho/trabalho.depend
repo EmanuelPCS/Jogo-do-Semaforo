@@ -1,0 +1,129 @@
+# depslib dependency file v1.0
+1623625728 source:/media/manu/DATA/ISEC/Engenharia_Informatica/1_ano_Cadeiras_POR_FAZER/2_Semestre/Programacao/Trabalho_Pratico/trabalho/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<unistd.h>
+	"utils.h"
+	"utilsFile.h"
+	"jogadorAutomatico.h"
+	"jogada.h"
+	<limits.h>
+
+1623626200 source:/media/manu/DATA/ISEC/Engenharia_Informatica/1_ano_Cadeiras_POR_FAZER/2_Semestre/Programacao/Trabalho_Pratico/trabalho/utils.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<unistd.h>
+	"utils.h"
+	"utilsFile.h"
+	"jogadorAutomatico.h"
+	"jogada.h"
+	<limits.h>
+
+1623623942 /media/manu/DATA/ISEC/Engenharia_Informatica/1_ano_Cadeiras_POR_FAZER/2_Semestre/Programacao/Trabalho_Pratico/trabalho/utils.h
+	"jogada.h"
+
+1623524613 /media/manu/DATA/ISEC/Engenharia_Informatica/1_ano_Cadeiras_POR_FAZER/2_Semestre/Programacao/Trabalho_Pratico/trabalho/utilsFile.h
+
+1623612363 source:/media/manu/DATA/ISEC/Engenharia_Informatica/1_ano_Cadeiras_POR_FAZER/2_Semestre/Programacao/Trabalho_Pratico/trabalho/utilsFile.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<unistd.h>
+	"utils.h"
+	"utilsFile.h"
+	"jogadorAutomatico.h"
+	"jogada.h"
+	<limits.h>
+
+1623624807 /media/manu/DATA/ISEC/Engenharia_Informatica/1_ano_Cadeiras_POR_FAZER/2_Semestre/Programacao/Trabalho_Pratico/trabalho/jogadorAutomatico.h
+
+1623625267 source:/media/manu/DATA/ISEC/Engenharia_Informatica/1_ano_Cadeiras_POR_FAZER/2_Semestre/Programacao/Trabalho_Pratico/trabalho/jogadorAutomatico.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<unistd.h>
+	"utils.h"
+	"utilsFile.h"
+	"jogadorAutomatico.h"
+	"jogada.h"
+	<limits.h>
+
+1623625267 /media/manu/DATA/ISEC/Engenharia_Informatica/1_ano_Cadeiras_POR_FAZER/2_Semestre/Programacao/Trabalho_Pratico/trabalho/jogada.h
+
+1623625267 source:/media/manu/DATA/ISEC/Engenharia_Informatica/1_ano_Cadeiras_POR_FAZER/2_Semestre/Programacao/Trabalho_Pratico/trabalho/jogada.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<unistd.h>
+	"utils.h"
+	"utilsFile.h"
+	"jogadorAutomatico.h"
+	"jogada.h"
+	<limits.h>
+
+1623625267 source:/media/manu/DATA/ISEC/Engenharia_Informatica/1_ano_Cadeiras_POR_FAZER/2_Semestre/Programacao/testeTP/Trabalho_Pratico/trabalho/jogada.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<unistd.h>
+	"utils.h"
+	"utilsFile.h"
+	"jogadorAutomatico.h"
+	"jogada.h"
+	<limits.h>
+
+1623623942 /media/manu/DATA/ISEC/Engenharia_Informatica/1_ano_Cadeiras_POR_FAZER/2_Semestre/Programacao/testeTP/Trabalho_Pratico/trabalho/utils.h
+	"jogada.h"
+
+1623625267 /media/manu/DATA/ISEC/Engenharia_Informatica/1_ano_Cadeiras_POR_FAZER/2_Semestre/Programacao/testeTP/Trabalho_Pratico/trabalho/jogada.h
+
+1623524613 /media/manu/DATA/ISEC/Engenharia_Informatica/1_ano_Cadeiras_POR_FAZER/2_Semestre/Programacao/testeTP/Trabalho_Pratico/trabalho/utilsFile.h
+
+1623624807 /media/manu/DATA/ISEC/Engenharia_Informatica/1_ano_Cadeiras_POR_FAZER/2_Semestre/Programacao/testeTP/Trabalho_Pratico/trabalho/jogadorAutomatico.h
+
+1623626496 source:/media/manu/DATA/ISEC/Engenharia_Informatica/1_ano_Cadeiras_POR_FAZER/2_Semestre/Programacao/testeTP/Trabalho_Pratico/trabalho/jogadorAutomatico.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<unistd.h>
+	"utils.h"
+	"utilsFile.h"
+	"jogadorAutomatico.h"
+	"jogada.h"
+	<limits.h>
+
+1623625728 source:/media/manu/DATA/ISEC/Engenharia_Informatica/1_ano_Cadeiras_POR_FAZER/2_Semestre/Programacao/testeTP/Trabalho_Pratico/trabalho/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<unistd.h>
+	"utils.h"
+	"utilsFile.h"
+	"jogadorAutomatico.h"
+	"jogada.h"
+	<limits.h>
+
+1623626496 source:/media/manu/DATA/ISEC/Engenharia_Informatica/1_ano_Cadeiras_POR_FAZER/2_Semestre/Programacao/testeTP/Trabalho_Pratico/trabalho/utils.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<unistd.h>
+	"utils.h"
+	"utilsFile.h"
+	"jogadorAutomatico.h"
+	"jogada.h"
+	<limits.h>
+
+1623612363 source:/media/manu/DATA/ISEC/Engenharia_Informatica/1_ano_Cadeiras_POR_FAZER/2_Semestre/Programacao/testeTP/Trabalho_Pratico/trabalho/utilsFile.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<unistd.h>
+	"utils.h"
+	"utilsFile.h"
+	"jogadorAutomatico.h"
+	"jogada.h"
+	<limits.h>
+
